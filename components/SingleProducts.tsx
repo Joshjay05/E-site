@@ -1,4 +1,5 @@
-("use client");
+"use client";
+
 import Image from "next/image";
 import FormattedPrice from "./FormattedPrice";
 import { IoMdCart } from "react-icons/io";
