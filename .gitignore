@@ -40,3 +40,4 @@ next-env.d.ts
 
 # Ignore other sensitive files or directories
 secret/
+STRIPE_SECRET_KEY
